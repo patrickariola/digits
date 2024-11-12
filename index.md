@@ -1,7 +1,7 @@
 <img src="doc/landing.png">
 
 
-nextjs-application-template is a sample Next.js 14 application that illustrates:
+digits is a sample Next.js 14 application that illustrates:
 
 - A standard directory layout using 'src/' as recommended in the [Next.js Project Structure](https://nextjs.org/docs/getting-started/project-structure) guide.
 - [Bootstrap 5 React](https://react-bootstrap.github.io/) for user interface.
