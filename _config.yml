@@ -1,8 +1,8 @@
-title: nextjs-application-template
-description: A template for quickly starting Next.js application development
+title: digits
+description: A template for quickly starting digits development
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-dark-mode
 
 gems:
   - jekyll-mentions
