@@ -2,7 +2,7 @@ title: digits
 description: A template for quickly starting digits development
 google_analytics:
 show_downloads: true
-theme: jekyll-dark-mode
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
